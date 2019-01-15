@@ -12,5 +12,7 @@ public class CourseApplication {
 
 	/* Comment */
 
+	System.out("F80 M3")
+
 }
 
